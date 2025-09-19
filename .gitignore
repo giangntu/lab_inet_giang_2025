@@ -1,0 +1,6 @@
+output/
+results/
+*.exe
+*.o
+*.so
+.DS_Store

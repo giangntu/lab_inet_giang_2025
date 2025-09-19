@@ -1,0 +1,10 @@
+{
+  "name": "OMNeT++ INET Labs",
+  "image": "inet-framework/omnetpp:6.0",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-vscode.cpptools"]
+    }
+  },
+  "postCreateCommand": "echo '✅ Môi trường OMNeT++ + INET 4.5 đã sẵn sàng!'"
+}
